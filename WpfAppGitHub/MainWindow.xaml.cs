@@ -21,7 +21,7 @@ namespace WpfAppGitHub
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
     }
 }
